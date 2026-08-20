@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hvjtdq.pusat4damd.site/sitemap.xml
